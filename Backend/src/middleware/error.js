@@ -1,4 +1,9 @@
+
 const ErrorHandler = require("..src/utils/ErrorHandler");
+
+const ErrorHandler = require("../utils/ErrorHandler");
+
+
 
 module.exports = (err, req, res, next) => {
   err.statusCode = err.statusCode || 500;
@@ -31,4 +36,4 @@ module.exports = (err, req, res, next) => {
     success: false,
     message: err.message,
   });
-}
+
