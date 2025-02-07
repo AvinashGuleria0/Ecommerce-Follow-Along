@@ -7,7 +7,7 @@ Welcome to the **E-commerce-Follow-Along** project! This is a full-stack **E-com
 - 🔍 **Search & Filters** – Easily find products using an intuitive search and filter system.
 - 🛒 **Shopping Cart** – Add/remove products and manage your cart effortlessly.
 - 🏦 **Secure Payments** – Integrated payment gateway for smooth transactions.
-- 🔒 **User Authentication** – Sign up, log in, and manage user accounts securely.
+- 🔒 **User Authentication** – Sign up, log in, and manage user accounts secure.
 - 🚚 **Order Tracking** – Monitor orders in real time with status updates..
 
 ---
@@ -30,7 +30,7 @@ Welcome to the **E-commerce-Follow-Along** project! This is a full-stack **E-com
 - Created dedicated **folders and structure** for organizing backend code efficiently.
 - Initialized and configured a **Node.js server** to handle API requests.
 - Connected the application to **MongoDB** for storing and managing data.
-- Implemented **basic error handling** to ensure smooth server operations.
+- Implemented **basic error handling** to ensure smooth server operation.
 - Updated the **README** file with progress details..
 
 ## Milestone 4: User Model, Controller, and File Uploads
