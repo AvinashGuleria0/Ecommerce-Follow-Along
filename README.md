@@ -31,7 +31,7 @@ Welcome to the **E-commerce-Follow-Along** project! This is a full-stack **E-com
 - Initialized and configured a **Node.js server** to handle API requests.
 - Connected the application to **MongoDB** for storing and managing data.
 - Implemented **basic error handling** to ensure smooth server operations.
-- Updated the **README** file with progress details.
+- Updated the **README** file with progress details..
 
 ## Milestone 4: User Model, Controller, and File Uploads
 - Created a **User Model** to define how user data is stored in the database.
