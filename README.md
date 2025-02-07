@@ -8,7 +8,7 @@ Welcome to the **E-commerce-Follow-Along** project! This is a full-stack **E-com
 - 🛒 **Shopping Cart** – Add/remove products and manage your cart effortlessly.
 - 🏦 **Secure Payments** – Integrated payment gateway for smooth transactions.
 - 🔒 **User Authentication** – Sign up, log in, and manage user accounts securely.
-- 🚚 **Order Tracking** – Monitor orders in real time with status updates.
+- 🚚 **Order Tracking** – Monitor orders in real time with status updates..
 
 ---
 
