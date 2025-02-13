@@ -45,6 +45,13 @@ Welcome to the **E-commerce-Follow-Along** project! This is a full-stack **E-com
 - Connected the **registration UI** to the backend API.
 - Updated the **README** file with completed milestones and project status.
 
+## Milestone 7: Login Authentication
+- Created **backend endpoint** for user login.
+- Implemented **password validation** and **encryption comparison**.
+- Used **bcrypt** to securely store and validate passwords.
+- Ensured **proper error handling** for failed login attempts.
+- Updated **README** with login implementation details.
+
 ---
 
 # 🛠️ Tech Stack
