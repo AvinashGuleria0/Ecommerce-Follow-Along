@@ -20,7 +20,7 @@ Welcome to the **E-commerce-Follow-Along** project! 🚀 This is a full-stack E-
 ### ✅ Milestone 1: Repository Initialization
 
 - 📂 Created a GitHub repository named **Ecommerce-Follow-Along**.
-- 📝 Initialized the repository with a `README.md` file.
+- 📝 Initialized the repository with a README.md file.
 - 🏗️ Set up basic project structure and committed initial files.
 
 ### ✅ Milestone 2: Project Setup and Login Page
@@ -82,6 +82,28 @@ Welcome to the **E-commerce-Follow-Along** project! 🚀 This is a full-stack E-
 
 ---
 
+## 🚀 Milestone 11: Display Products at Frontend
+
+- 📝 **Write an endpoint** that will send all products data to the frontend.
+- 🔙 **In the frontend**, write a function to get all the data.
+- 🖼️ **Display these data dynamically** by passing them to the product card component.
+
+**Note:** This lesson helps in understanding how to send and receive data and display it dynamically using components.
+
+---
+
+## 🚀 Milestone 12: Personalized Products Page
+
+- 🌟 **Welcome to Milestone 12!** 
+- 🛒 **Create a "My Products" page** that displays all products added by the user according to their email.
+- 📝 **Write an endpoint** to filter and send products by user email from MongoDB.
+- 🔙 **Implement frontend functionality** to fetch and display these filtered products.
+- 🖼️ **Use the product card** to dynamically show user's products.
+
+**Note:** This lesson focuses on filtering data with specific constraints and sending it to the client.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Frontend:**
@@ -98,4 +120,3 @@ Welcome to the **E-commerce-Follow-Along** project! 🚀 This is a full-stack E-
 - ☁️ **Firebase / AWS S3** (for file storage)
 - 💳 **Stripe / Razorpay** (for payment processing)
 - 📝 **RESTful APIs / GraphQL**
-
