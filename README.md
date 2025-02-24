@@ -88,8 +88,6 @@ Welcome to the **E-commerce-Follow-Along** project! 🚀 This is a full-stack E-
 - 🔙 **In the frontend**, write a function to get all the data.
 - 🖼️ **Display these data dynamically** by passing them to the product card component.
 
-**Note:** This lesson helps in understanding how to send and receive data and display it dynamically using components.
-
 ---
 
 ## 🚀 Milestone 12: Personalized Products Page
@@ -100,7 +98,37 @@ Welcome to the **E-commerce-Follow-Along** project! 🚀 This is a full-stack E-
 - 🔙 **Implement frontend functionality** to fetch and display these filtered products.
 - 🖼️ **Use the product card** to dynamically show user's products.
 
-**Note:** This lesson focuses on filtering data with specific constraints and sending it to the client.
+---
+
+## 🚀 Milestone 13: Edit Product Functionality
+
+- 🌟 **Welcome to Milestone 13!**
+- ✏️ Added functionality to **edit uploaded products**.
+- 🛠️ Implemented an **edit button** on the product card and created a backend endpoint to update product details in **MongoDB**.
+
+**Learning Goals 🎯**  
+By the end of this milestone, you will:  
+- Learn how to write an endpoint to update existing data in MongoDB.  
+- Understand how to auto-fill a form with previous data and provide options to edit it.  
+
+**Steps for Milestone 13 📝**  
+- Write a backend endpoint to receive updated product data and modify the existing entry in MongoDB.  
+- Add an **edit button** to the product card in the frontend.  
+- On clicking the edit button, populate a form with the product’s current data, allowing users to edit and save changes.  
+
+---
+
+## 🚀 Milestone 14: Delete Product Functionality
+
+- 🌟 **Welcome to Milestone 14!**
+- Today, we will add an functionality to delete button to the product data and write and backend endpoint to delete the product with the use of ID.
+
+**Learning Goals 🎯**  
+By the end of this milestone, you will:  
+- How to write an endpoint that delete the product with specific ID from MongoDB.  
+
+**Steps for Milestone 14 📝**  
+- Write an endpoint that will Delete the data form MongoDB using ID. In frontend we will add an delete button to the product card. When click on delete button we will send the product id to server endpoint.
 
 ---
 
